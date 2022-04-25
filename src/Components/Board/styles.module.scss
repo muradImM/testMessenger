@@ -1,0 +1,30 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  height: 95vh;
+  border-bottom: 1px solid #6b705c;
+}
+
+.dashboard {
+  border-right: 1px solid #6b705c;
+  overflow-y: auto;
+}
+
+.initialMessage {
+  display: flex;
+  height: 100%;
+  align-self: center;
+
+  p {
+    padding: 10px;
+    border-radius: 10px;
+    align-self: center;
+    background-color: #ddbea9;
+  }
+}
+
+.loader {
+  position: absolute;
+  top: 30%;
+  left: 10%
+}

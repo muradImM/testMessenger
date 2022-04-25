@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  overflow-x: hidden;
+  border-bottom: 2px solid #ffe8d6;
+  height: 80px;
+}
+
+.active {
+  background-color: #cb997e;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.nameWrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.textContent {
+  cursor: default;
+  margin: 0.5em;
+}
+
+.sss {
+  white-space: nowrap;
+  width: 200px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-right: 0;
+}

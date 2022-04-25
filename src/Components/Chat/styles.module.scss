@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-bottom: 1px solid #6b705c;
+  align-items: center;
+  gap: 15px;
+  font-size: 1.5em;
+  height: 70px;
+  box-sizing: border-box;
+}
+
+.messagesWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow-y: auto;
+  height: calc(95vh - 140px);
+}
+
+.inputWrapper {
+  padding: 20px;
+  border-top: 1px solid #6b705c;
+  height: 70px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+
+.adornment {
+  color: #cb997e;
+  cursor: pointer;
+
+  &:hover {
+    color: #cb997e;
+  }
+}
+
+.emptyChat {
+  display: flex;
+  height: inherit;
+  align-self: center;
+  justify-self: center;
+
+  p {
+    padding: 10px;
+    border-radius: 10px;
+    align-self: end;
+    background-color: #ddbea9;
+  }
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+

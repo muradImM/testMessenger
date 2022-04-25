@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76d9b5d8-39e9-43be-9430-9df8e3e9a24f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Board/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Board/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Chat/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Chat/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Message/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Message/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/User/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/User/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UserInfo/UserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UserInfo/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UserList/UsersList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UserList/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roter/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roter/PrivateRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="282RBY81AIdxzI0GmY9XTwyyI3f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "/snap/webstorm/254/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/UserList" />
+      <recent name="$PROJECT_DIR$/src/Components/Chat" />
+      <recent name="$PROJECT_DIR$/src/Components/User" />
+      <recent name="$PROJECT_DIR$/src/Components/Board" />
+      <recent name="$PROJECT_DIR$/src/roter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d9b5d8-39e9-43be-9430-9df8e3e9a24f" name="Changes" comment="" />
+      <created>1650412561351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650412561351</updated>
+      <workItem from="1650412564445" duration="10695000" />
+      <workItem from="1650430785779" duration="1569000" />
+      <workItem from="1650476507490" duration="28387000" />
+      <workItem from="1650560978335" duration="30924000" />
+      <workItem from="1650651437608" duration="34771000" />
+      <workItem from="1650740472663" duration="32071000" />
+      <workItem from="1650837880336" duration="20153000" />
+      <workItem from="1650858922392" duration="1911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

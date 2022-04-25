@@ -1,0 +1,53 @@
+.textWrapper {
+  word-break: break-all;
+  display: flex;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.text {
+  margin: 3px;
+}
+
+.to {
+  align-self: start;
+  text-align: start;
+  color: #282c34;
+  background-color: #eae2b7;
+  max-width: 70%;
+
+  small {
+    color: #7f5539;
+  }
+}
+
+.from {
+  max-width: 70%;
+  align-self: end;
+  color: #eae2b7;
+  text-align: end;
+  background-color: #003049;
+
+  small {
+    color: #ffe8d6;
+  }
+}
+
+.avatar {
+  border: 1px solid #003049;
+  margin-right: 5px;
+  margin-left: 10px;
+  align-self: end;
+  margin-bottom: 10px;
+}
+
+.fromWrapper {
+  justify-content: end;
+}
+
+.toWrapper {
+  justify-content: start;
+}
+
+
