@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76d9b5d8-39e9-43be-9430-9df8e3e9a24f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Board/Board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Board/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Chat/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Chat/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Message/Message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Message/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/User/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/User/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UserInfo/UserInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UserInfo/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UserList/UsersList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UserList/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/roter/AppRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/roter/PrivateRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/roter/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/roter/AppRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="deploy" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -94,7 +75,7 @@
       <workItem from="1650651437608" duration="34771000" />
       <workItem from="1650740472663" duration="32071000" />
       <workItem from="1650837880336" duration="20153000" />
-      <workItem from="1650858922392" duration="1911000" />
+      <workItem from="1650858922392" duration="4192000" />
     </task>
     <servers />
   </component>
