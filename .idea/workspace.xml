@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76d9b5d8-39e9-43be-9430-9df8e3e9a24f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/router/consts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/UserInfo/UserInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UserInfo/UserInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/roter/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/AppRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/roter/PrivateRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/PrivateRoute.js" afterDir="false" />
-    </list>
+    <list default="true" id="76d9b5d8-39e9-43be-9430-9df8e3e9a24f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +71,7 @@
       <workItem from="1650740472663" duration="32071000" />
       <workItem from="1650837880336" duration="20153000" />
       <workItem from="1650858922392" duration="7215000" />
-      <workItem from="1650867800752" duration="1038000" />
+      <workItem from="1650867800752" duration="1429000" />
     </task>
     <servers />
   </component>
