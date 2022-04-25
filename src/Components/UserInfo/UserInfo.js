@@ -4,6 +4,7 @@ import {Avatar, Button, InputAdornment, TextField} from "@mui/material";
 import styles from "./styles.module.scss"
 import SearchIcon from '@mui/icons-material/Search';
 import {useNavigate} from "react-router-dom";
+import {LOGIN_PAGE} from "../../router/consts";
 
 const UserInfo = () => {
 
@@ -13,7 +14,7 @@ const UserInfo = () => {
     const clickHandler = async () => {
         try {
             await logout()
-            navigate("/login")
+            navigate(LOGIN_PAGE)
         } catch (error) {
             console.log(error)
         }

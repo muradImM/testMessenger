@@ -5,6 +5,7 @@ import DirectionsWalkIcon from '@mui/icons-material/DirectionsWalk';
 import {useAuth} from "../context/AuthContext";
 import {useNavigate} from "react-router-dom";
 import {Box} from "@mui/material";
+import {HOME_PAGE} from "../router/consts";
 
 const Login = () => {
 
@@ -34,7 +35,7 @@ const Login = () => {
         setLoading(() => true)
         try {
             await loginWithGoogle()
-            navigate("/")
+            navigate(HOME_PAGE)
         } catch (error) {
             console.log(error)
         }
@@ -47,7 +48,7 @@ const Login = () => {
         try {
 
             await loginAsGuest()
-            navigate("/")
+            navigate(HOME_PAGE)
         } catch (error) {
             console.log(error)
         }

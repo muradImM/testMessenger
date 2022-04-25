@@ -1,6 +1,7 @@
-import React, {useContext} from 'react';
+import React from 'react';
 import {Navigate} from "react-router-dom";
 import {useAuth} from "../context/AuthContext";
+import {LOGIN_PAGE} from "./consts";
 
 const PrivateRote = ({children}) => {
 
@@ -8,7 +9,7 @@ const PrivateRote = ({children}) => {
 
     return (
         <>
-            {currentUser ? children : <Navigate to={"login"}/>}
+            {currentUser ? children : <Navigate to={LOGIN_PAGE}/>}
         </>
     )
 }
